@@ -14,7 +14,6 @@ body {
 
 .label {
     background-color: hsl(0, 0%, 100%);
-    /* box-shadow: 0.5px 0.5px 10px 0.5px hsl(220, 15%, 55%); */
     box-shadow: 0.5px 0.5px 10px 0.5px rgba(0, 0, 0, 0.2);
     display: inline-block;
     height: 60vh;
@@ -35,14 +34,11 @@ img {
 }
 
 h2 {
-    /* font-size: 20px; */
     font-weight: 700;
-    /* padding: 5%; */
 }
 
 h3 {
     font-weight: 400;
-    /* padding: 5%; */
 }
 
 .attribution {
